@@ -1,0 +1,11 @@
+E:\#Developed\Projects C#\Autorization\Autorization\bin\Debug\Autorization.exe.config
+E:\#Developed\Projects C#\Autorization\Autorization\bin\Debug\Autorization.exe
+E:\#Developed\Projects C#\Autorization\Autorization\bin\Debug\Autorization.pdb
+E:\#Developed\Projects C#\Autorization\Autorization\obj\Debug\Autorization.Form1.resources
+E:\#Developed\Projects C#\Autorization\Autorization\obj\Debug\Autorization.Properties.Resources.resources
+E:\#Developed\Projects C#\Autorization\Autorization\obj\Debug\Autorization.csproj.GenerateResource.Cache
+E:\#Developed\Projects C#\Autorization\Autorization\obj\Debug\Autorization.exe
+E:\#Developed\Projects C#\Autorization\Autorization\obj\Debug\Autorization.pdb
+E:\#Developed\Projects C#\Autorization\Autorization\obj\Debug\Autorization.csprojResolveAssemblyReference.cache
+E:\#Developed\Projects C#\Autorization\Autorization\obj\Debug\Autorization.csproj.ResolveComReference.cache
+E:\#Developed\Projects C#\Autorization\Autorization\obj\Debug\Autorization.Form2.resources
